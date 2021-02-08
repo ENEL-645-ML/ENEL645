@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5a3630f-470a-4a3f-b197-e7d7d8775390" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/JNotebooks/tutorial04_fully_connected_neural_network_2D_synthetic_example.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JNotebooks/tutorial05_different_approaches_to_define_neural_networks_keras.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/JNotebooks/tutorial05_different_approaches_to_define_neural_networks_keras.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JNotebooks/tutorial06_tensorboard.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/JNotebooks/tutorial06_tensorboard.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
